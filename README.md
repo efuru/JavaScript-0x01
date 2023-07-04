@@ -1,4 +1,4 @@
-### My JavaScript Course 1
+# JavaScript Essential Course
 
 This repository contains my notes and projects from the JavaScript Essentials 1 (JSE).
 
@@ -21,16 +21,16 @@ The primary objective of this course is to equip students with the skills and kn
 
 * Errors, exceptions, debugging, and troubleshooting.
 
-## Projects and Assignments
+#### Projects and Assignments
 
 
-## What I Learned
+### What I Learned
 
-* i wrote my first "Hello, World!" in JS .
+* I wrote my first "Hello, World!" in JS.
 * console.log()
 * about:blank
 * JS interpreter and how the Web works
-* How JS is the best thing since the World Wide Web, lol and am not even joking!
+* How JS is the best thing since the World Wide Web, lol, and am not even joking!
 
 ### Reference
 [Cisco](https://lms.netacad.com)
