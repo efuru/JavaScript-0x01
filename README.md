@@ -24,6 +24,9 @@ The primary objective of this course is to equip students with the skills and kn
 #### Projects and Assignments
 
 
+## Tools
+
+
 ### What I Learned
 
 * I wrote my first "Hello, World!" in JS.
